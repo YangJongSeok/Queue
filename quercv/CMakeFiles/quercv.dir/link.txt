@@ -1,0 +1,1 @@
+g++  -fPIC -Wall -Wno-write-strings CMakeFiles/quercv.dir/quercv.cpp.o -o quercv   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lque 

@@ -1,0 +1,1 @@
+g++  -fPIC -Wall -Wno-write-strings CMakeFiles/QUEMAKE.dir/quemake.cpp.o -o QUEMAKE   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lque 
